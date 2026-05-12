@@ -1,2 +1,2 @@
 print("gumma",end=" ")
-print("lavanya")
+print("aruna kumari")
